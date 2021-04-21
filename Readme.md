@@ -7,5 +7,4 @@ Cloud DB.
 It's hosted on www.elephantsql.com.
 Under the details view, you can see info about your database. This must be used in the DbContext class.
 
-Inline-style: 
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/TroelsMortensen/EFCpostgres/blob/master/Img/ElephantSQLDbInfo.png?raw=true "Logo Title Text 1")
