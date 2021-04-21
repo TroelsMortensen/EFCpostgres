@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalDB", "LocalDB\LocalDB.csproj", "{264FE027-5A3A-47FF-86AA-444DE91F75EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CloudDB", "CloudDB\CloudDB.csproj", "{34C7F979-C2C8-4CF6-A13F-FF9D30DE2FD1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{264FE027-5A3A-47FF-86AA-444DE91F75EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{264FE027-5A3A-47FF-86AA-444DE91F75EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{264FE027-5A3A-47FF-86AA-444DE91F75EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34C7F979-C2C8-4CF6-A13F-FF9D30DE2FD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34C7F979-C2C8-4CF6-A13F-FF9D30DE2FD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34C7F979-C2C8-4CF6-A13F-FF9D30DE2FD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34C7F979-C2C8-4CF6-A13F-FF9D30DE2FD1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
